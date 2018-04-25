@@ -1,10 +1,10 @@
-# Flux 
+# MAXIM Dashboard
 
 An application architecture for React
 
 ---
 
-### Flux Design
+### Design
 
 - Dispatcher: Manages Data Flow
 - Stores: Handle State & Logic
@@ -12,4 +12,4 @@ An application architecture for React
 
 ---
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+![Typical Dashboard](https://www.dropbox.com/s/z4nqjbmrg61d72g/dashboard%20tim.png?dl=0)
